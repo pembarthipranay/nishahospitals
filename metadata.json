@@ -1,0 +1,6 @@
+{
+  "name": "Nisa Hospital Hyderabad",
+  "description": "Nisa Hospital Hyderabad - 35-bed specialized women's healthcare, maternity, obstetrics, gynecology, neonatal care, and 24x7 emergency hospital in Bazarghat, Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
